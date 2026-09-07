@@ -1,2 +1,1 @@
-print("хуй")
-
+print("fgfgdf")
