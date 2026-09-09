@@ -12,6 +12,7 @@ import aiohttp
 #создание диспетчера
 BOT_TOKEN = "8942039805:AAF1ellog3ABmhhmQuvQ7mXWCSGVhKV76iE"
 bot = Bot(token=BOT_TOKEN)
+BACKEND_URL = "https://nailsbot-90fb.onrender.com/api/v1"
 dp = Dispatcher()
 
 #обработка команды старт
